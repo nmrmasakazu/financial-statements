@@ -1,0 +1,5 @@
+[flake8]
+exclude = tests/*
+ignore = D300, D400
+; D300=Docstringはダブルクオーテーション
+; D400=Docstringの最後にピリオド
