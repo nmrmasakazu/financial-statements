@@ -2,7 +2,4 @@ jupyter
 flake8
 flake8-docstrings
 autopep8
-arelle
-isodate
-lxml
-pandas
+edinet-xbrl
