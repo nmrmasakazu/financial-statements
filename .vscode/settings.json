@@ -10,5 +10,5 @@
     // Pythonコードの整形にautopep8を利用
     "python.formatting.provider": "autopep8",
     // ファイル保存時に自動整形
-    // "editor.formatOnSave": true,
+    "editor.formatOnSave": true,
 }
