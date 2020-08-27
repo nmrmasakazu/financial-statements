@@ -68,13 +68,14 @@ class Utils:
             {
                 "key": ["RevenuesFromExternalCustomers",
                         "TransactionsWithOtherSegments",
-                        "NetSales",
+                        "jppfs_cor:NetSales",
                         "OperatingRevenue1",
                         "OperatingRevenue2",
                         "GrossOperatingRevenue",
                         "OrdinaryIncomeBNK",
                         "OperatingIncomeINS"],
-                "context_ref": ["CurrentYearDuration"]
+                "context_ref": ["CurrentYearDuration",
+                                "CurrentYearDuration_NonConsolidatedMember"]
             },
             "営業収益":
             {
